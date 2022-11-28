@@ -1,6 +1,6 @@
-# A387-Jarkom-Labs
+# webserver_test
 
-Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
+Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer Anda.
 
 ---
 
